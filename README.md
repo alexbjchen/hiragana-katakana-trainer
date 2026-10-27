@@ -2,7 +2,7 @@
 
 ### Screenshot
 
-![](https://github.com/alexbjchen/hiragana-katakana-trainer/blob/main/screenshot.PNG)
+![](https://github.com/alexbjchen/hiragana-katakana-trainer/blob/master/screenshot.PNG)
 
 
 ### Use
